@@ -26,3 +26,5 @@ C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\TeamServer\obj\De
 C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\TeamServer\obj\Debug\net5.0\ref\TeamServer.dll
 C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\TeamServer\obj\Debug\net5.0\TeamServer.pdb
 C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\TeamServer\obj\Debug\net5.0\TeamServer.genruntimeconfig.cache
+C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\TeamServer\bin\Debug\net5.0\ApiModels.dll
+C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\TeamServer\bin\Debug\net5.0\ApiModels.pdb

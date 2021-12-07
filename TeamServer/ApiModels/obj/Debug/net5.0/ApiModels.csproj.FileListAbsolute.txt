@@ -1,0 +1,11 @@
+C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\ApiModels\bin\Debug\net5.0\ApiModels.deps.json
+C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\ApiModels\bin\Debug\net5.0\ApiModels.dll
+C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\ApiModels\bin\Debug\net5.0\ref\ApiModels.dll
+C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\ApiModels\bin\Debug\net5.0\ApiModels.pdb
+C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\ApiModels\obj\Debug\net5.0\ApiModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\ApiModels\obj\Debug\net5.0\ApiModels.AssemblyInfoInputs.cache
+C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\ApiModels\obj\Debug\net5.0\ApiModels.AssemblyInfo.cs
+C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\ApiModels\obj\Debug\net5.0\ApiModels.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\ApiModels\obj\Debug\net5.0\ApiModels.dll
+C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\ApiModels\obj\Debug\net5.0\ref\ApiModels.dll
+C:\Users\pablo\Documents\Proyectos\lemarchand-s-box\TeamServer\ApiModels\obj\Debug\net5.0\ApiModels.pdb

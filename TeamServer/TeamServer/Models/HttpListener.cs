@@ -25,7 +25,7 @@ namespace TeamServer.Models
         {
             var hostBuidler = new HostBuilder().ConfigureWebHostDefaults(host =>
             {
-                host.UseUrls($"http://0.0.0.0:BindPort");
+                host.UseUrls($"http://0.0.0.0:{BindPort}");
                 host.Configure(ConfigureApp);
                 host.ConfigureServices(ConfigureServices);
             });
